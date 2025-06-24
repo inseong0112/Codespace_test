@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather application that displays current weather conditions.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-native start",
+    "build": "react-native build",
+    "test": "react-native test",
+    "eject": "react-native eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.2",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^8.3.0"
+  },
+  "keywords": [
+    "weather",
+    "react-native",
+    "application"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
