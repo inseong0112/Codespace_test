@@ -12,6 +12,8 @@ npx expo login
 
 npx expo start --tunnel
 
+npx expo whoami
+
 #3 npx expo start
 
 
